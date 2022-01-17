@@ -1,0 +1,13 @@
+# virtualenv directories
+.venv/
+venv-*/
+
+# python generated cache and other meta files
+__pycache__
+*.pyc
+
+# project environment variable file
+.env
+
+# lab R&D directory
+lab/
